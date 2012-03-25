@@ -1,5 +1,4 @@
 source :rubygems
-gem 'rack'
-#gem 'sinatra'
+#gem 'rack'
+gem 'sinatra'
 
-#gem 'thin'
