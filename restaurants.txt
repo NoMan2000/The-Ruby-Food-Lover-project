@@ -1,0 +1,8 @@
+Ryan's home kitchen	Death	100
+McDonalds	Fine meals	10
+Burger King	Shoddy	6
+morgan	seafood	12
+Cafe Masala	Indian	30
+Taco Bell	Suitable	7
+El Mariachi	Mexican	400
+hot tamale	fast food	5
