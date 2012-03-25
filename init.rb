@@ -1,4 +1,5 @@
 require 'fileutils'
+require 'sinatra'
 
 #FileUtils.copy('file_app.rb', 'food_lover/file_app.rb')
 #Dir.mkdir("lib")
